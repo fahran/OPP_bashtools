@@ -1,0 +1,15 @@
+export SW=/home/ee/projects/o2/wwwpoc
+export SP=/home/ee/projects/o2/presentation
+export S=/home/ee/projects/o2/presentation
+export SL=/home/ee/projects/o2/local-build
+export ST=/home/ee/projects/o2/functional-tests
+export SD=/home/ee/projects/o2/dashboard
+export SF=/home/ee/projects/o2/family
+export P=/opt/o2/pu
+export L=/opt/o2/bluedawn/liferay-tomcat
+export G=/opt/o2/gigaspaces-xap-premium-6.6.4-ga
+export TC=/home/ee/dev/tools/tomcat7
+export GRADLE_OPTS="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n"
+export OATC_ENV=local
+export STORESTOCK_ENV=dev
+export BROADWAY_ENV=dev
